@@ -169,8 +169,6 @@ section h2 {
     box-shadow: var(--shadow);
     transition: transform 0.3s ease;
     overflow: hidden;
-    display: flex;
-    flex-direction: column;
     height: 100%;
 }
 
@@ -498,4 +496,5 @@ section h2 {
     .servico-conteudo p {
         font-size: 0.9rem;
     }
+
 }
